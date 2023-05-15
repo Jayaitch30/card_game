@@ -1,2 +1,2 @@
 # card_game
-cool card game to play 
+card game againts computer
